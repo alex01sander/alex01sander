@@ -10,9 +10,12 @@
 
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
-- 👨🏻‍ &nbsp; Eu tive meu primeiro computador aos 15 anos, sempre tiver curiosidade em saber como funcionasse os sites que eu usava e jogos que eu jogava na época.
--  &nbsp; Meu primeiro contato com programação, foi fazer themes para tumblr em html e css, fiz minha primera requisição http sem ao menos saber o que era, com um servidor local no computador para fazer uma radio online para interagir no jogo habbo que jogava na época, sempre sonhava em fazer jogos. Em 2016 ingressei na faculdade em Ciências da computação, mas a didatica não entregava o que eu estava buscando, passei para Análise e Desenvolvimento, mas também não obtive o mesmo êxtio.
-- 🚀 &nbsp; Atualmente, tenho como foco principal da minha carreira na área de desenvolvimento web. Utilizo a stack JavaScript (React) e Node.JS para desenvolver.
+
+🚀 Olá, sou Alex Britto. Minha paixão na carreira é o desenvolvimento Fullstack, onde uso principalmente as stacks JavaScript (React) e NodeJS.
+
+👨🏻‍💻 Meu interesse por programação começou aos 15 anos, quando ganhei meu primeiro computador. Sempre quis entender como os sites que usava e os jogos que jogava eram criados.
+
+💚 Minha primeira incursão na programação foi criando temas para o Tumblr em HTML e CSS. Lembro-me de fazer minha primeira requisição HTTP sem sequer entender o que era, configurando um servidor local no computador para criar uma rádio online para interagir com o jogo Habbo que eu gostava na época. Desde então, sempre sonhei em criar meus próprios jogos. Em 2016, entrei na faculdade de Ciência da Computação, mas a abordagem didática não atendeu às minhas expectativas. Mudei para Análise e Desenvolvimento de Sistemas, mas ainda não encontrei o que buscava.
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
 <h3>💻 &nbsp;Front-end:</h3>
