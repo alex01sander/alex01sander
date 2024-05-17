@@ -25,8 +25,11 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Node](https://img.shields.io/badge/-Node-333333?style=flat&logo=node)
 
+
+<h3>💻 &nbsp;Back-end:</h3>
+![Node](https://img.shields.io/badge/-Node-333333%3Fstyle%3Dflat%26logo%3DNode)
+![MongoDB](https://img.shields.io/badge/-MongoBD-333333%3Fstyle%3Dflat%26logo%3DMongoBD)
 
 
 
