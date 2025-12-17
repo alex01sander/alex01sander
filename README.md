@@ -1,40 +1,81 @@
-<h1>👋 &nbsp;Olá, eu sou o Alex Britto, um desenvolvedor FullStack !</h1>
-<p align="center">
-<a href="https://www.instagram.com/alx_sandeer/"><img src="https://img.shields.io/badge/-@alx__sandeer-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a href="https://flourishing-manatee-dc9e6e.netlify.app/"><img src="https://img.shields.io/badge/Repositorio-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
-<!-- <a href="https://www.youtube.com/channel/UC8TRfZVb-M_ivbU9yiocTvQ"><img src="https://img.shields.io/badge/-dicasparadevs-D62422?style=flatsquare&labelColor=D62422&logo=youtube&logoColor=white"/></a> -->
-<a href="https://www.linkedin.com/in/alex-sander-dev/"><img src="https://img.shields.io/badge/-Alex%20Britto-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:alexsander01@hotmail.com.br"><img src="https://img.shields.io/badge/-alexsander01@hotmail.com.br-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+👋 Olá, eu sou o Alex Britto
 
-</p>
+Desenvolvedor **Fullstack JavaScript**, com foco em **Node.js, TypeScript e React**.  
+Experiência prática no desenvolvimento de APIs REST, aplicações web modernas e projetos com deploy em produção.
 
-<h2> 👨🏻‍💻 &nbsp;About Me </h2>
+---
 
+## 👨‍💻 About Me
+- Desenvolvedor Fullstack focado no ecossistema JavaScript
+- Experiência com projetos reais e desafios técnicos
+- Criação de APIs REST, aplicações web e integrações
+- Interesse constante em boas práticas, arquitetura e código limpo
+- Objetivo atual: atuar como **Desenvolvedor Júnior**
 
-🚀 Olá, sou Alex Britto. Minha paixão na carreira é o desenvolvimento Fullstack, onde uso principalmente as stacks JavaScript (React) e NodeJS.
+---
 
-👨🏻‍💻 Meu interesse por programação começou aos 15 anos, quando ganhei meu primeiro computador. Sempre quis entender como os sites que usava e os jogos que jogava eram criados.
+## 🛠️ Tech Stack
 
-💚 Minha primeira incursão na programação foi criando temas para o Tumblr em HTML e CSS. Lembro-me de fazer minha primeira requisição HTTP sem sequer entender o que era, configurando um servidor local no computador para criar uma rádio online para interagir com o jogo Habbo que eu gostava na época. Desde então, sempre sonhei em criar meus próprios jogos. Em 2016, entrei na faculdade de Ciência da Computação, mas a abordagem didática não atendeu às minhas expectativas. Mudei para Análise e Desenvolvimento de Sistemas, mas ainda não encontrei o que buscava.
+### Front-end
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
-<h2> 🛠 &nbsp;Tech Stack</h2>
-<h3>💻 &nbsp;Front-end:</h3>
+### Back-end
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+---
 
+## 🚀 Projetos em Destaque
 
-<h3>💻 &nbsp;Back-end:</h3>
+### 🌍 API de Geolocalização
+- Node.js, TypeScript, MongoDB e Docker
+- CRUD completo
+- Consultas geoespaciais
+- Arquitetura organizada (controllers, services)
+- Testes automatizados
 
-![Node](https://img.shields.io/badge/-Node-333333%3Fstyle%3Dflat%26logo%3DNode)
-![MongoDB](https://img.shields.io/badge/-MongoBD-333333%3Fstyle%3Dflat%26logo%3DMongoBD)
-![Docker](https://img.shields.io/badge/-Docker-33333%3Fstyle%3Dflat%26logo%3DDocker)
+🔗 https://github.com/alex01sander/OzGeolocaliz-o
 
+---
 
+### 🤖 API de Upload com IA
+- Upload de imagens com Multer
+- Geração automática de descrições com IA (Gemini)
+- MongoDB
+- API REST documentada
+- Deploy em produção
 
-<h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
+🔗 https://github.com/alex01sander
 
-![Felipe Rocha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alex01sander&show_icons=true&theme=dracula)
+---
+
+### 🌐 Website Institucional
+- React
+- Styled Components
+- Layout responsivo
+- Integração com WhatsApp e formulário de contato
+
+🔗 https://alogin.com.br  
+🔗 https://github.com/alex01sander/alogin
+
+---
+
+## 📊 GitHub Stats
+
+![Alex GitHub Stats](https://github-readme-stats.vercel.app/api?username=alex01sander&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alex01sander&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 📫 Contato
+- LinkedIn: https://www.linkedin.com/in/alex-sander-dev/
+- GitHub: https://github.com/alex01sander
+- Email: alexsander01@hotmail.com.br
