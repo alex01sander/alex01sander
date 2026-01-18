@@ -32,40 +32,6 @@ Experiência prática no desenvolvimento de APIs REST, aplicações web modernas
 
 ---
 
-## 🚀 Projetos em Destaque
-
-### 🌍 API de Geolocalização
-- Node.js, TypeScript, MongoDB e Docker
-- CRUD completo
-- Consultas geoespaciais
-- Arquitetura organizada (controllers, services)
-- Testes automatizados
-
-🔗 https://github.com/alex01sander/OzGeolocaliz-o
-
----
-
-### 🤖 API de Upload com IA
-- Upload de imagens com Multer
-- Geração automática de descrições com IA (Gemini)
-- MongoDB
-- API REST documentada
-- Deploy em produção
-
-🔗 https://github.com/alex01sander
-
----
-
-### 🌐 Website Institucional
-- React
-- Styled Components
-- Layout responsivo
-- Integração com WhatsApp e formulário de contato
-
-🔗 https://alogin.com.br  
-🔗 https://github.com/alex01sander/alogin
-
----
 
 ## 📊 GitHub Stats
 
